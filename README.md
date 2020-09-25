@@ -11,9 +11,9 @@ The following **additional** features are implemented:
 - [x] An icon for the TipCalculator App.
 
 
-## Gif of working app
+## Gif walkthrough of App
 
-GIF created with [recordit](http://g.recordit.co/tSqExXbzuF.gif).
+<img src="http://g.recordit.co/tSqExXbzuF.gif" width=250><br>
 
 ## License
     Copyright [2020] [Yara Ajjawi]
